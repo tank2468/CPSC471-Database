@@ -1,0 +1,18 @@
+index.php
+a_loginwith.php
+a_register.php
+admin_deleteUser.php
+admin_home.php
+admin_modUserGroup.php
+
+doctor_home.php
+
+ADDED: 8:40pm, Dec 1
+doctor_newPatient.php
+doctor_viewPatient.php
+doctor_deletePatient.php
+
+ADDED: 9:00pm, Dec 1
+doctor_modifyPatient.php
+
+(don't need to touch tools_* because they're all functions)
